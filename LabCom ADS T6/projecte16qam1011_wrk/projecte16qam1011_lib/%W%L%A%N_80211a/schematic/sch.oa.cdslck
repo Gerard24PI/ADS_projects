@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      xsad
+HostName                       xsad-HP
+ProcessIdentifier              4016
+ProcessCreationTime_UTC        1504173075
+ProcessCreationTime_Readable   08/31/17 11:51:15 Hora de verano romance
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\xsad\OneDrive\LC_GC004\Documents de practiques\pràctiques actuals\Pràctica 06 - Modulacions Digitals II\projecte16qam1011_wrk\projecte16qam1011_lib\%W%L%A%N_80211a\schematic\sch.oa.cdslck
+TimeEditLocked                 08/31/17 11:55:45 Hora de verano romance

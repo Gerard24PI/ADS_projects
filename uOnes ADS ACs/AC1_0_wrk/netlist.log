@@ -1,0 +1,39 @@
+; Top Design: "Ex1_LTs_Paralel_lib:AC1_0:Circuit LTs parallel"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="Ex1_LTs_Paralel_lib:AC1_0:Circuit LTs parallel" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+TLIN:TL1  V_1_z0 N__7 Z=50.0 Ohm E=90 F=1 GHz 
+TLIN:TL2  N__6 N__9 Z=50.0 Ohm E=45 F=1 GHz 
+TLIN:TL3  N__0 V_3_zL3 Z=(50.0*sqrt(2)) Ohm E=90 F=1 GHz 
+R:ZL2  V_2_zL2 0 R=50 Ohm Noise=yes 
+R:ZL3  V_3_zL3 0 R=50 Ohm Noise=yes 
+V_Source:SRC1  N__8 0 Type="V_AC" Vdc=0.0 V Vac=polar(1,0) V Freq=freq V_Noise=0 uV SaveCurrent=1 
+R:Zg  N__8 N__10 R=50 Ohm Noise=yes 
+AC:AC1 CalcNoise=no SortNoise=0 IncludePortNoise=yes BandwidthForNoise=1 Hz FreqConversion=no UseFiniteDiff=no StatusLevel=2 OutputBudgetIV=no DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="AC1_stim" OutputPlan="AC1_Output" 
+
+SweepPlan: AC1_stim Start=0 GHz Stop=3 GHz Step=0.1 GHz 
+
+OutputPlan:AC1_Output \
+      Type="Output" \
+      UseNodeNestLevel=yes \
+      NodeNestLevel=2 \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2 \
+      UseDeviceCurrentNestLevel=no \
+      DeviceCurrentNestLevel=0 \
+      DeviceCurrentDeviceType="All" \
+      DeviceCurrentSymSyntax=yes \
+      UseCurrentNestLevel=yes \
+      CurrentNestLevel=999 \
+      UseDeviceVoltageNestLevel=no \
+      DeviceVoltageNestLevel=0 \
+      DeviceVoltageDeviceType="All"
+
+Short:I_1_zL1  N__7 V_1_zL1 Mode=0 SaveCurrent=yes 
+Short:I_2_z0  V_1_zL1 N__6 Mode=0 SaveCurrent=yes 
+Short:I_3_z0  V_1_zL1 N__0 Mode=0 SaveCurrent=yes 
+Short:I_2_zL2  N__9 V_2_zL2 Mode=0 SaveCurrent=yes 
+Short:I_1_z0  N__10 V_1_z0 Mode=0 SaveCurrent=yes 

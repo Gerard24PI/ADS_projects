@@ -1,0 +1,157 @@
+; Top Design: "projecte16qam1011_lib:16QAM_cell:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="projecte16qam1011_lib:16QAM_cell:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+; Library Name: Numeric
+; Cell Name: Bits
+; View Name: schematic
+define Bits ( N__3 ) 
+parameters  Type=0  ProbOfZero=0.5  LFSR_Length=12  LFSR_InitState=1 
+_vKeysightEEsof_dSDF_nImpulseFloat_lsdfstars:R1  N__0 Level=1.0 Period=2 Delay=1 
+_vKeysightEEsof_dHOF_nBus_lhofstars:B1  N__2 N__1 BusWidth=1 
+_vKeysightEEsof_dHOF_nBus_lhofstars:B3  N__4 N__3 BusWidth=1 
+_vKeysightEEsof_dHOF_nIfElse_lhofstars:I6  N__9 N__5 N__7 N__6 N__4 N__8 Condition=int( Type ) 
+_vKeysightEEsof_dHOF_nBus_lhofstars:B2  N__10 N__9 BusWidth=1 
+_vKeysightEEsof_dHOF_nIfElse_lhofstars:I4  N__14 N__0 N__12 N__11 N__2 N__13 Condition=int( Type ) 
+_vKeysightEEsof_dSDF_nLFSR_lsdfomnistars:L1  N__16 N__15 Seed="LFSR_Seed" FeedbackList="List" 
+_vKeysightEEsof_dHOF_nIfElse_lhofstars:I5  N__1 N__15 N__17 N__16 N__10 N__18 Condition=int( Type ) 
+_vKeysightEEsof_dSDF_nIID_x5fUniform_lsdfstars:I7  N__12 Lower=0.0 Upper=1.0 
+_vKeysightEEsof_dSDF_nFloatToInt_lsdfstars:F14  N__8 N__7 
+_vKeysightEEsof_dSDF_nQuant_lsdfstars:Q14  N__18 N__17 Thresholds="Thresholds" Levels="" 
+_vKeysightEEsof_dSDF_nDownSample_lsdfstars:D1  N__6 N__5 Factor=2 Phase=1 
+
+Thresholds=if ( ProbOfZero <= 0 ) then "-1.0" elseif ( ProbOfZero >= 1 ) then "2.0" else "ProbOfZero" endif
+
+L=if ( ( LFSR_Length > 1 ) && ( LFSR_Length < 32 ) ) then LFSR_Length else 12 endif
+LFSR_Seed=if ( ( LFSR_InitState > 0 ) && ( LFSR_InitState < 2**L ) ) then LFSR_InitState else 1 endif
+List=if (L<=9) then List1 elseif (L<=17) then List2 elseif (L<=25) then List3 else List4 endif
+List1=if (L==2) then L2 elseif (L==3) then L3 elseif (L==4) then L4 elseif (L==5) then L5 elseif (L==6) then L6 elseif (L==7) then L7 elseif (L==8) then L8 else L9 endif
+List2=if (L==10) then L10 elseif (L==11) then L11 elseif (L==12) then L12 elseif (L==13) then L13 elseif (L==14) then L14 elseif (L==15) then L15 elseif (L==16) then L16 else L17 endif
+List3=if (L==18) then L18 elseif (L==19) then L19 elseif (L==20) then L20 elseif (L==21) then L21 elseif (L==22) then L22 elseif (L==23) then L23 elseif (L==24) then L24 else L25 endif
+List4=if (L==26) then L26 elseif (L==27) then L27 elseif (L==28) then L28 elseif (L==29) then L29 elseif (L==30) then L30 else L31 endif
+List5=if (L==2) then L2 elseif (L==3) then L3 elseif (L==4) then L4 elseif (L==5) then L5 elseif (L==6) then L6 elseif (L==7) then L7 elseif (L==8) then L8 elseif (L==9) then L9 elseif (L==10) then L10 elseif (L==11) then L11 elseif (L==12) then L12 elseif (L==13) then L13 elseif (L==14) then L14 elseif (L==15) then L15 elseif (L==16) then L16 elseif (L==17) then L17 elseif (L==18) then L18 elseif (L==19) then L19 elseif (L==20) then L20 elseif (L==21) then L21 elseif (L==22) then L22 elseif (L==23) then L23 elseif (L==24) then L24 elseif (L==25) then L25 elseif (L==26) then L26 elseif (L==27) then L27 elseif (L==28) then L28 elseif (L==29) then L29 elseif (L==30) then L30 else L31 endif
+
+L2="2 1"
+L3="3 1"
+L4="4 1"
+L5="5 2"
+L6="6 1"
+L7="7 1"
+L8="8 5 3 1"
+
+L9="9 4"
+L10="10 3"
+L11="11 7 3 2"
+L12="12 6 4 1"
+L13="13 4 3 1"
+L14="14 12 2 1"
+L15="15 1"
+
+L16="16 12 3 1"
+L17="17 3"
+L18="18 7"
+L19="19 5 2 1"
+L20="20 3"
+L21="21 2"
+L22="22 1"
+
+L23="23 5"
+L24="24 7 2"
+L25="25 3"
+L26="26 6 2 1"
+L27="27 5 2 1"
+L28="28 3"
+L29="29 2"
+L30="30 23 2 1"
+L31="31 3"
+end Bits
+
+; Library Name: Timed
+; Cell Name: QAM_Mod
+; View Name: schematic
+define QAM_Mod ( N__2  N__1  N__3 ) 
+parameters  RIn=DefaultRIn  ROut=DefaultROut  RTemp=DefaultRTemp  FCarrier=1000000  Power=0.01  VRef=1  Phase=0  GainImbalance=0  PhaseImbalance=0 
+R:R2  0 N__1 R=RIn Temp=-273.15 
+R:R1  N__2 0 R=RIn Temp=-273.15 
+R:R3  N__3 N__4 R=ROut Temp=RTemp 
+_vKeysightEEsof_dTSDF_n_x5fQAM_x5fMod_ltsdfstars:Q1  N__2 N__1 N__4 RIn=RIn ROut=ROut RTemp=-273.15 FCarrier=FCarrier Power=Power VRef=VRef Phase=Phase GainImbalance=GainImbalance PhaseImbalance=PhaseImbalance 
+end QAM_Mod
+
+; Library Name: Sinks
+; Cell Name: SpectrumAnalyzer
+; View Name: schematic
+define SpectrumAnalyzer ( N__1 ) 
+parameters  Plot=0  RLoad=DefaultRLoad  RTemp=DefaultRTemp  Start=DefaultTimeStart  Stop=DefaultTimeStop  Window=0  WindowConstant=0.0  Bias=1  FStart=0.0  FStop=100e9  NumFreqs=0  NPoints=0  Overlap=0 
+_vKeysightEEsof_dTSDF_n_x5fSpectrumAnalyzer_ltsdfsinks:S1  N__1 Plot=Plot RLoad=RLoad RTemp=RTemp Start=Start Stop=Stop Window=Window WindowConstant=WindowConstant Bias=Bias FStart=FStart FStop=FStop NumFreqs=NumFreqs NPoints=NPoints Overlap=Overlap 
+R:R1  N__1 0 R=RLoad Temp=RTemp 
+end SpectrumAnalyzer
+
+; Library Name: Interactive_Controls_and_Displays
+; Cell Name: TkConstellation
+; View Name: schematic
+define TkConstellation ( N__2  N__1 ) 
+parameters  Label="Tk Constellation"  NumSamplesPerSymbol=10  Amplitude=2  SampleDelay=2  Persistence=200  UpdateSize=10  Style=1 
+_vKeysightEEsof_dSDF_nRectToCx_lsdfstars:R1  N__2 N__1 N__0 
+_vKeysightEEsof_dSDF_nRectToCx_lsdfstars:R4  N__4 N__3 N__0 
+_vKeysightEEsof_dSDF_nMpyCx_lsdfstars:M4  N__0 N__5 
+_vKeysightEEsof_dSDF_nTkSlider_lsdftclstars:T3  N__6 Low=-180.0 High=180.0 Value=0.0 Identifier="{Label} Rotation (deg)" PutInControlPanel=1 Granularity=360 
+_vKeysightEEsof_dSDF_nGain_lsdfstars:G8  N__6 N__7 Gain=pi/180 
+_vKeysightEEsof_dSDF_nSin_lsdfstars:S2  N__7 N__3 
+_vKeysightEEsof_dSDF_nCos_lsdfstars:C6  N__7 N__4 
+_vKeysightEEsof_dSDF_nVarDelay_lsdfstars:V6  N__5 N__8 N__9 MaxDelay=NumSamplesPerSymbol 
+_vKeysightEEsof_dSDF_nTkSlider_lsdftclstars:T4  N__8 Low=0.0 High=NumSamplesPerSymbol Value=SampleDelay Identifier="{Label} Sample Delay" PutInControlPanel=1 Granularity=NumSamplesPerSymbol 
+_vKeysightEEsof_dSDF_nDownSample_lsdfstars:D2  N__11 N__10 Factor=NumSamplesPerSymbol Phase=0 
+_vKeysightEEsof_dHOF_nIfElse_lhofstars:I1  N__9 N__13 N__10 N__13 N__12 N__11 Condition=int(Style) 
+_vKeysightEEsof_dSDF_nCxToRect_lsdfstars:C7  N__12 N__15 N__14 
+_vKeysightEEsof_dSDF_nTkXYPlot_lsdftclstars:T5  N__15 N__14 Label=Label Geometry="400x400+0+0" xTitle="Re" yTitle="Im" xRange="(-Amplitude) (Amplitude)" yRange="(-Amplitude) (Amplitude)" Persistence=Persistence Style=Style UpdateSize=UpdateSize 
+end TkConstellation
+
+Bits:B10  N__6 Type=0 ProbOfZero=0.5 LFSR_Length=12 LFSR_InitState=1 
+_vKeysightEEsof_dSDF_nNumericSink_ltsdfsinks:Dades_In  N__6 Plot=0 Start=DefaultNumericStart Stop=DefaultNumericStop ControlSimulation=1 
+_vKeysightEEsof_dSDF_nBitsToInt_lsdfstars:B9  N__6 N__7 nBits=4 
+_vKeysightEEsof_dSDF_nTableCx_lsdfstars:T3  N__7 N__13 Values="(1,1) (3,1) (1,3) (3,3) (-1,1) (-1,3) (-3,1) (-3,3) (-1,-1) (-3,-1) (-1,-3) (-3,-3) (1,-1) (1,-3) (3,-1) (3,-3)" 
+_vKeysightEEsof_dSDF_nNumericSink_ltsdfsinks:bits_Int  N__7 Plot=0 Start=DefaultNumericStart Stop=DefaultNumericStop ControlSimulation=1 
+_vKeysightEEsof_dSDF_nCxToRect_lsdfstars:C2  N__13 N__4 N__5 
+TkConstellation:T4  N__4 N__5 Label="Tk Constellation" NumSamplesPerSymbol=10 Amplitude=4 SampleDelay=2 Persistence=200 UpdateSize=10 Style=0 
+_vKeysightEEsof_dSDF_nGain_lsdfstars:G4  N__5 N__3 Gain=1.0 
+_vKeysightEEsof_dSDF_nGain_lsdfstars:G5  N__4 N__2 Gain=1.0 
+_vKeysightEEsof_dSDF_nRaisedCosine_lsdfdspstars:R1  N__3 N__12 Decimation=1 DecimationPhase=0 Interpolation=mostres_per_simbol Length=64 SymbolInterval=mostres_per_simbol ExcessBW=1.0 SquareRoot=1 
+_vKeysightEEsof_dSDF_nRaisedCosine_lsdfdspstars:R2  N__2 N__14 Decimation=1 DecimationPhase=0 Interpolation=mostres_per_simbol Length=64 SymbolInterval=mostres_per_simbol ExcessBW=1.0 SquareRoot=1 
+TkConstellation:T5  N__14 N__12 Label="Tk Constellation" NumSamplesPerSymbol=80 Amplitude=4 SampleDelay=7 Persistence=200 UpdateSize=10 Style=0 
+DefaultNumericStart=0
+DefaultNumericStop=num_mostres
+DefaultTimeStart=0 usec
+DefaultTimeStop=Tstop sec
+DefaultSeed=1234567
+DefaultRIn=50 Ohm
+DefaultROut=50 Ohm
+DefaultRLoad=1.0e18 Ohm
+DefaultRTemp=-273.15
+__DefaultPartition=1
+__SimulationID=0
+_vKeysightEEsof_dTSDF_nDF_ltsdf:DF DefaultTimeUnit=3 DefaultSeed=if (DefaultSeed==0) then 0 else (DefaultSeed+__SimulationID) endif DefaultPartition=__DefaultPartition DeadlockManager=0 CktCosimInputs=0 OutputPlan="DF_Output" 
+OutputPlan:DF_Output \
+      Type="Output" \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+_vKeysightEEsof_dSDF_nNumericSink_ltsdfsinks:Im  N__5 Plot=1 Start=DefaultNumericStart Stop=DefaultNumericStop ControlSimulation=1 
+_vKeysightEEsof_dSDF_nNumericSink_ltsdfsinks:Im1  N__4 Plot=1 Start=DefaultNumericStart Stop=DefaultNumericStop ControlSimulation=1 
+QAM_Mod:Q2  N__9 N__1 N__10 RIn=DefaultRIn ROut=DefaultROut RTemp=DefaultRTemp FCarrier=freq_portadora Power=0.001 W VRef=3 V Phase=0 GainImbalance=0 PhaseImbalance=0 
+_vKeysightEEsof_dTSDF_nFloatToTimed_ltsdfstars:F1  N__12 N__1 TStep=Tstep2 sec 
+_vKeysightEEsof_dTSDF_nFloatToTimed_ltsdfstars:F2  N__14 N__9 TStep=Tstep2 sec 
+_vKeysightEEsof_dTSDF_nVSA_x5f89600B_x5fSink_lvsa89600models:V4  N__10 VSATitle="Simulation output" TStep=0 sec SamplesPerSymbol=0.0 SetupFile="" RestoreHW=0 Start=DefaultNumericStart Stop=-1 TclTkMode=1 RecordMode=0 SetFreqProp=1 
+
+bit_time=1/bit_rate
+freq_portadora=5Mhz
+Tstep1=1/(sym_rate)
+Tstep2=1/(sym_rate*mostres_per_simbol)
+bit_rate=20Khz
+sym_rate=bit_rate/4
+sym_time=1/sym_rate
+num_mostres=200
+mostres_per_simbol=8
+Tstop=num_mostres*Tstep1
+Alfa=1
+SpectrumAnalyzer:S3  N__10 Plot=0 RLoad=DefaultRLoad RTemp=DefaultRTemp Start=DefaultTimeStart Stop=DefaultTimeStop Window=0 WindowConstant=0.0 Bias=1 FStart=0.0 Hz FStop=100e9 Hz NumFreqs=0 NPoints=0 Overlap=0 
+_vKeysightEEsof_dSDF_nNumericSink_ltsdfsinks:bits_tableCx  N__13 Plot=0 Start=DefaultNumericStart Stop=DefaultNumericStop ControlSimulation=1 

@@ -1,0 +1,37 @@
+; Top Design: "intro_lib:intro1:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="intro_lib:intro1:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+TLIN:TL1  V_3_z V_3_zL3 Z=(50*sqrt(2)) Ohm E=90-E0 F=1 GHz 
+R:R1  V_3_zL3 0 R=50 Ohm Noise=yes 
+V_Source:SRC1  N__7 0 Type="V_AC" Vdc=0.0 V Vac=polar(1,0) V Freq=freq V_Noise=0 uV SaveCurrent=1 
+R:R2  N__7 N__5 R=(50*sqrt(2)) Ohm Noise=yes 
+AC:AC1 CalcNoise=no SortNoise=0 IncludePortNoise=yes BandwidthForNoise=1 Hz FreqConversion=no UseFiniteDiff=no StatusLevel=2 OutputBudgetIV=no DevOpPtLevel=0 \
+OutputPlan="AC1_Output" Freq=1 GHz 
+
+OutputPlan:AC1_Output \
+      Type="Output" \
+      UseNodeNestLevel=yes \
+      NodeNestLevel=2 \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2 \
+      UseDeviceCurrentNestLevel=no \
+      DeviceCurrentNestLevel=0 \
+      DeviceCurrentDeviceType="All" \
+      DeviceCurrentSymSyntax=yes \
+      UseCurrentNestLevel=yes \
+      CurrentNestLevel=999 \
+      UseDeviceVoltageNestLevel=no \
+      DeviceVoltageNestLevel=0 \
+      DeviceVoltageDeviceType="All"
+
+Short:I_3_z  N__8 V_3_z Mode=0 SaveCurrent=yes 
+TLIN:TL2  N__5 N__8 Z=(50*sqrt(2)) Ohm E=90-E0 F=1 GHz 
+
+E0=0.0
+ParamSweep:Sweep1 SimInstanceName[1]="AC1" StatusLevel=2 SweepVar="E0" SweepPlan="Sweep1_stim" 
+
+SweepPlan: Sweep1_stim Start=1 Stop=90 Step=1 
+

@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE projecte16qam1011_lib projecte16qam1011_lib
+ASSIGN projecte16qam1011_lib libMode shared

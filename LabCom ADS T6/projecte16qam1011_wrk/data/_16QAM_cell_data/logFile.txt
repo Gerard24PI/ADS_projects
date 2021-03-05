@@ -1,0 +1,29 @@
+
+hpeesofsim (*) 530.shp Aug 11 2020, MINT version 5
+    (64-bit windows built: Wed Aug 12, 2020 02:42:05 +0000)
+
+`DF': Simulation started. 
+`DF': Scheduling completed in 31 milliseconds (CPU time).
+VSA_89600B_Sink `V4': Setting up VSA link for Simulation output
+Error detected by hpeesofsim during Ptolemy simulation initialization `DF'.
+    VSA_89600B_Sink `V4': No "Link to EEsof ADS/SystemVue" (Option 105) license
+
+
+Error detected by hpeesofsim during Ptolemy simulation wrap up `DF'.
+    `S3': Does not have enough data to do the analysis. 
+
+
+Error detected by hpeesofsim during Ptolemy simulation wrap up `DF'.
+    `DF': Simulation terminated due to error at 2 seconds (CPU time). The
+    simulation was  0.0% complete.
+
+
+Error detected by hpeesofsim during Ptolemy simulation wrap up `DF'.
+
+-------------------------------------------------------------------------------
+Simulation finished with errors.
+-------------------------------------------------------------------------------
+
+Resource usage:
+  Total stopwatch time     =    59.71 seconds.
+

@@ -1,0 +1,280 @@
+
+hpeesofsim (*) 530.shp Aug 11 2020, MINT version 5
+    (64-bit windows built: Wed Aug 12, 2020 02:42:05 +0000)
+
+
+CT Sweep1[1] <intro_lib:intro1:schematic>   E0=(1->90)
+
+AC Sweep1[1].AC1[1/90] <intro_lib:intro1:schematic>  E0=1  freq=1 GHz
+
+
+AC Sweep1[1].AC1[2/90] <intro_lib:intro1:schematic>  E0=2  freq=1 GHz
+
+
+AC Sweep1[1].AC1[3/90] <intro_lib:intro1:schematic>  E0=3  freq=1 GHz
+
+
+AC Sweep1[1].AC1[4/90] <intro_lib:intro1:schematic>  E0=4  freq=1 GHz
+
+
+AC Sweep1[1].AC1[5/90] <intro_lib:intro1:schematic>  E0=5  freq=1 GHz
+
+
+AC Sweep1[1].AC1[6/90] <intro_lib:intro1:schematic>  E0=6  freq=1 GHz
+
+
+AC Sweep1[1].AC1[7/90] <intro_lib:intro1:schematic>  E0=7  freq=1 GHz
+
+
+AC Sweep1[1].AC1[8/90] <intro_lib:intro1:schematic>  E0=8  freq=1 GHz
+
+
+AC Sweep1[1].AC1[9/90] <intro_lib:intro1:schematic>  E0=9  freq=1 GHz
+
+
+AC Sweep1[1].AC1[10/90] <intro_lib:intro1:schematic>  E0=10  freq=1 GHz
+
+
+AC Sweep1[1].AC1[11/90] <intro_lib:intro1:schematic>  E0=11  freq=1 GHz
+
+
+AC Sweep1[1].AC1[12/90] <intro_lib:intro1:schematic>  E0=12  freq=1 GHz
+
+
+AC Sweep1[1].AC1[13/90] <intro_lib:intro1:schematic>  E0=13  freq=1 GHz
+
+
+AC Sweep1[1].AC1[14/90] <intro_lib:intro1:schematic>  E0=14  freq=1 GHz
+
+
+AC Sweep1[1].AC1[15/90] <intro_lib:intro1:schematic>  E0=15  freq=1 GHz
+
+
+AC Sweep1[1].AC1[16/90] <intro_lib:intro1:schematic>  E0=16  freq=1 GHz
+
+
+AC Sweep1[1].AC1[17/90] <intro_lib:intro1:schematic>  E0=17  freq=1 GHz
+
+
+AC Sweep1[1].AC1[18/90] <intro_lib:intro1:schematic>  E0=18  freq=1 GHz
+
+
+AC Sweep1[1].AC1[19/90] <intro_lib:intro1:schematic>  E0=19  freq=1 GHz
+
+
+AC Sweep1[1].AC1[20/90] <intro_lib:intro1:schematic>  E0=20  freq=1 GHz
+
+
+AC Sweep1[1].AC1[21/90] <intro_lib:intro1:schematic>  E0=21  freq=1 GHz
+
+
+AC Sweep1[1].AC1[22/90] <intro_lib:intro1:schematic>  E0=22  freq=1 GHz
+
+
+AC Sweep1[1].AC1[23/90] <intro_lib:intro1:schematic>  E0=23  freq=1 GHz
+
+
+AC Sweep1[1].AC1[24/90] <intro_lib:intro1:schematic>  E0=24  freq=1 GHz
+
+
+AC Sweep1[1].AC1[25/90] <intro_lib:intro1:schematic>  E0=25  freq=1 GHz
+
+
+AC Sweep1[1].AC1[26/90] <intro_lib:intro1:schematic>  E0=26  freq=1 GHz
+
+
+AC Sweep1[1].AC1[27/90] <intro_lib:intro1:schematic>  E0=27  freq=1 GHz
+
+
+AC Sweep1[1].AC1[28/90] <intro_lib:intro1:schematic>  E0=28  freq=1 GHz
+
+
+AC Sweep1[1].AC1[29/90] <intro_lib:intro1:schematic>  E0=29  freq=1 GHz
+
+
+AC Sweep1[1].AC1[30/90] <intro_lib:intro1:schematic>  E0=30  freq=1 GHz
+
+
+AC Sweep1[1].AC1[31/90] <intro_lib:intro1:schematic>  E0=31  freq=1 GHz
+
+
+AC Sweep1[1].AC1[32/90] <intro_lib:intro1:schematic>  E0=32  freq=1 GHz
+
+
+AC Sweep1[1].AC1[33/90] <intro_lib:intro1:schematic>  E0=33  freq=1 GHz
+
+
+AC Sweep1[1].AC1[34/90] <intro_lib:intro1:schematic>  E0=34  freq=1 GHz
+
+
+AC Sweep1[1].AC1[35/90] <intro_lib:intro1:schematic>  E0=35  freq=1 GHz
+
+
+AC Sweep1[1].AC1[36/90] <intro_lib:intro1:schematic>  E0=36  freq=1 GHz
+
+
+AC Sweep1[1].AC1[37/90] <intro_lib:intro1:schematic>  E0=37  freq=1 GHz
+
+
+AC Sweep1[1].AC1[38/90] <intro_lib:intro1:schematic>  E0=38  freq=1 GHz
+
+
+AC Sweep1[1].AC1[39/90] <intro_lib:intro1:schematic>  E0=39  freq=1 GHz
+
+
+AC Sweep1[1].AC1[40/90] <intro_lib:intro1:schematic>  E0=40  freq=1 GHz
+
+
+AC Sweep1[1].AC1[41/90] <intro_lib:intro1:schematic>  E0=41  freq=1 GHz
+
+
+AC Sweep1[1].AC1[42/90] <intro_lib:intro1:schematic>  E0=42  freq=1 GHz
+
+
+AC Sweep1[1].AC1[43/90] <intro_lib:intro1:schematic>  E0=43  freq=1 GHz
+
+
+AC Sweep1[1].AC1[44/90] <intro_lib:intro1:schematic>  E0=44  freq=1 GHz
+
+
+AC Sweep1[1].AC1[45/90] <intro_lib:intro1:schematic>  E0=45  freq=1 GHz
+
+
+AC Sweep1[1].AC1[46/90] <intro_lib:intro1:schematic>  E0=46  freq=1 GHz
+
+
+AC Sweep1[1].AC1[47/90] <intro_lib:intro1:schematic>  E0=47  freq=1 GHz
+
+
+AC Sweep1[1].AC1[48/90] <intro_lib:intro1:schematic>  E0=48  freq=1 GHz
+
+
+AC Sweep1[1].AC1[49/90] <intro_lib:intro1:schematic>  E0=49  freq=1 GHz
+
+
+AC Sweep1[1].AC1[50/90] <intro_lib:intro1:schematic>  E0=50  freq=1 GHz
+
+
+AC Sweep1[1].AC1[51/90] <intro_lib:intro1:schematic>  E0=51  freq=1 GHz
+
+
+AC Sweep1[1].AC1[52/90] <intro_lib:intro1:schematic>  E0=52  freq=1 GHz
+
+
+AC Sweep1[1].AC1[53/90] <intro_lib:intro1:schematic>  E0=53  freq=1 GHz
+
+
+AC Sweep1[1].AC1[54/90] <intro_lib:intro1:schematic>  E0=54  freq=1 GHz
+
+
+AC Sweep1[1].AC1[55/90] <intro_lib:intro1:schematic>  E0=55  freq=1 GHz
+
+
+AC Sweep1[1].AC1[56/90] <intro_lib:intro1:schematic>  E0=56  freq=1 GHz
+
+
+AC Sweep1[1].AC1[57/90] <intro_lib:intro1:schematic>  E0=57  freq=1 GHz
+
+
+AC Sweep1[1].AC1[58/90] <intro_lib:intro1:schematic>  E0=58  freq=1 GHz
+
+
+AC Sweep1[1].AC1[59/90] <intro_lib:intro1:schematic>  E0=59  freq=1 GHz
+
+
+AC Sweep1[1].AC1[60/90] <intro_lib:intro1:schematic>  E0=60  freq=1 GHz
+
+
+AC Sweep1[1].AC1[61/90] <intro_lib:intro1:schematic>  E0=61  freq=1 GHz
+
+
+AC Sweep1[1].AC1[62/90] <intro_lib:intro1:schematic>  E0=62  freq=1 GHz
+
+
+AC Sweep1[1].AC1[63/90] <intro_lib:intro1:schematic>  E0=63  freq=1 GHz
+
+
+AC Sweep1[1].AC1[64/90] <intro_lib:intro1:schematic>  E0=64  freq=1 GHz
+
+
+AC Sweep1[1].AC1[65/90] <intro_lib:intro1:schematic>  E0=65  freq=1 GHz
+
+
+AC Sweep1[1].AC1[66/90] <intro_lib:intro1:schematic>  E0=66  freq=1 GHz
+
+
+AC Sweep1[1].AC1[67/90] <intro_lib:intro1:schematic>  E0=67  freq=1 GHz
+
+
+AC Sweep1[1].AC1[68/90] <intro_lib:intro1:schematic>  E0=68  freq=1 GHz
+
+
+AC Sweep1[1].AC1[69/90] <intro_lib:intro1:schematic>  E0=69  freq=1 GHz
+
+
+AC Sweep1[1].AC1[70/90] <intro_lib:intro1:schematic>  E0=70  freq=1 GHz
+
+
+AC Sweep1[1].AC1[71/90] <intro_lib:intro1:schematic>  E0=71  freq=1 GHz
+
+
+AC Sweep1[1].AC1[72/90] <intro_lib:intro1:schematic>  E0=72  freq=1 GHz
+
+
+AC Sweep1[1].AC1[73/90] <intro_lib:intro1:schematic>  E0=73  freq=1 GHz
+
+
+AC Sweep1[1].AC1[74/90] <intro_lib:intro1:schematic>  E0=74  freq=1 GHz
+
+
+AC Sweep1[1].AC1[75/90] <intro_lib:intro1:schematic>  E0=75  freq=1 GHz
+
+
+AC Sweep1[1].AC1[76/90] <intro_lib:intro1:schematic>  E0=76  freq=1 GHz
+
+
+AC Sweep1[1].AC1[77/90] <intro_lib:intro1:schematic>  E0=77  freq=1 GHz
+
+
+AC Sweep1[1].AC1[78/90] <intro_lib:intro1:schematic>  E0=78  freq=1 GHz
+
+
+AC Sweep1[1].AC1[79/90] <intro_lib:intro1:schematic>  E0=79  freq=1 GHz
+
+
+AC Sweep1[1].AC1[80/90] <intro_lib:intro1:schematic>  E0=80  freq=1 GHz
+
+
+AC Sweep1[1].AC1[81/90] <intro_lib:intro1:schematic>  E0=81  freq=1 GHz
+
+
+AC Sweep1[1].AC1[82/90] <intro_lib:intro1:schematic>  E0=82  freq=1 GHz
+
+
+AC Sweep1[1].AC1[83/90] <intro_lib:intro1:schematic>  E0=83  freq=1 GHz
+
+
+AC Sweep1[1].AC1[84/90] <intro_lib:intro1:schematic>  E0=84  freq=1 GHz
+
+
+AC Sweep1[1].AC1[85/90] <intro_lib:intro1:schematic>  E0=85  freq=1 GHz
+
+
+AC Sweep1[1].AC1[86/90] <intro_lib:intro1:schematic>  E0=86  freq=1 GHz
+
+
+AC Sweep1[1].AC1[87/90] <intro_lib:intro1:schematic>  E0=87  freq=1 GHz
+
+
+AC Sweep1[1].AC1[88/90] <intro_lib:intro1:schematic>  E0=88  freq=1 GHz
+
+
+AC Sweep1[1].AC1[89/90] <intro_lib:intro1:schematic>  E0=89  freq=1 GHz
+
+
+AC Sweep1[1].AC1[90/90] <intro_lib:intro1:schematic>  E0=90  freq=1 GHz
+
+
+Resource usage:
+  Total stopwatch time     =     0.78 seconds.
+
