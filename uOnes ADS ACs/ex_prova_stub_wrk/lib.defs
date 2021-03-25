@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE ex_prova_stub_lib ex_prova_stub_lib
+ASSIGN ex_prova_stub_lib libMode shared

@@ -1,13 +1,15 @@
-; Top Design: "AC1_lib:Exercici_1:schematic"
+; Top Design: "AC1_lib:Exercici_1_Sim_1:schematic"
 ; Netlisted using Hierarchy Policy: "Standard"
 
-Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="AC1_lib:Exercici_1:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
-TLIN:TL1  N__10 V_1_zL1 Z=(2*50) Ohm E=180 F=1 GHz 
-TLIN:TL2  N__7 V_2_zL2 Z=(sqrt(2)*50) Ohm E=270 F=1 GHz 
-TLIN:TL3  N__4 V_3_zL3 Z=50 Ohm E=90 F=1 GHz 
-R:Zg  N__11 V_1_z0 R=(2*50) Ohm Noise=yes 
-R:ZL2  N__2 0 R=50 Ohm Noise=yes 
-R:ZL3  N__6 0 R=(2*50) Ohm Noise=yes 
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="AC1_lib:Exercici_1_Sim_1:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+TLIN:TL1  N__10 V_1_zL1 Z=(2*Zo) Ohm E=180 F=1 GHz 
+TLIN:TL2  N__7 V_2_zL2 Z=(sqrt(2)*Zo) Ohm E=270 F=1 GHz 
+TLIN:TL3  N__4 V_3_zL3 Z=Zo Ohm E=90 F=1 GHz 
+R:Zg  N__11 V_1_z0 R=(2*Zo) Ohm Noise=yes 
+R:ZL2  N__2 0 R=Zo Ohm Noise=yes 
+R:ZL3  N__6 0 R=(2*Zo) Ohm Noise=yes 
+
+Zo=50
 V_Source:SRC1  N__11 0 Type="V_AC" Vdc=0.0 V Vac=polar(1,0) V Freq=freq V_Noise=0 uV SaveCurrent=1 
 AC:AC1 CalcNoise=no SortNoise=0 IncludePortNoise=yes BandwidthForNoise=1 Hz FreqConversion=no UseFiniteDiff=no StatusLevel=2 OutputBudgetIV=no DevOpPtLevel=0 \
 SweepVar="freq" SweepPlan="AC1_stim" OutputPlan="AC1_Output" 

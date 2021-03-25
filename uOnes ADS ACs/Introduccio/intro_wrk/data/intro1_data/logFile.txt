@@ -1,6 +1,6 @@
 
-hpeesofsim (*) 530.shp Aug 11 2020, MINT version 5
-    (64-bit windows built: Wed Aug 12, 2020 02:42:05 +0000)
+hpeesofsim (*) 512.update2.0 Feb 27 2020, MINT version 5
+    (64-bit windows built: Thu Feb 27, 2020 19:34:00 +0000)
 
 
 CT Sweep1[1] <intro_lib:intro1:schematic>   E0=(1->90)
@@ -276,5 +276,5 @@ AC Sweep1[1].AC1[90/90] <intro_lib:intro1:schematic>  E0=90  freq=1 GHz
 
 
 Resource usage:
-  Total stopwatch time     =     0.78 seconds.
+  Total stopwatch time     =     1.29 seconds.
 

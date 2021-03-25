@@ -1,0 +1,1643 @@
+
+hpeesofsim (*) 512.update2.0 Feb 27 2020, MINT version 5
+    (64-bit windows built: Thu Feb 27, 2020 19:34:00 +0000)
+
+
+CT Sweep1[1] <AC1_lib:Exercici_1_Sim_2:schematic>   EL1=(0->180)
+
+AC Sweep1[1].AC1[1/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=0  freq=1 GHz
+
+
+AC Sweep1[1].AC1[2/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=1  freq=1 GHz
+
+
+AC Sweep1[1].AC1[3/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=2  freq=1 GHz
+
+
+AC Sweep1[1].AC1[4/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=3  freq=1 GHz
+
+
+AC Sweep1[1].AC1[5/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=4  freq=1 GHz
+
+
+AC Sweep1[1].AC1[6/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=5  freq=1 GHz
+
+
+AC Sweep1[1].AC1[7/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=6  freq=1 GHz
+
+
+AC Sweep1[1].AC1[8/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=7  freq=1 GHz
+
+
+AC Sweep1[1].AC1[9/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=8  freq=1 GHz
+
+
+AC Sweep1[1].AC1[10/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=9  freq=1 GHz
+
+
+AC Sweep1[1].AC1[11/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=10  freq=1 GHz
+
+
+AC Sweep1[1].AC1[12/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=11  freq=1 GHz
+
+
+AC Sweep1[1].AC1[13/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=12  freq=1 GHz
+
+
+AC Sweep1[1].AC1[14/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=13  freq=1 GHz
+
+
+AC Sweep1[1].AC1[15/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=14  freq=1 GHz
+
+
+AC Sweep1[1].AC1[16/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=15  freq=1 GHz
+
+
+AC Sweep1[1].AC1[17/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=16  freq=1 GHz
+
+
+AC Sweep1[1].AC1[18/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=17  freq=1 GHz
+
+
+AC Sweep1[1].AC1[19/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=18  freq=1 GHz
+
+
+AC Sweep1[1].AC1[20/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=19  freq=1 GHz
+
+
+AC Sweep1[1].AC1[21/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=20  freq=1 GHz
+
+
+AC Sweep1[1].AC1[22/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=21  freq=1 GHz
+
+
+AC Sweep1[1].AC1[23/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=22  freq=1 GHz
+
+
+AC Sweep1[1].AC1[24/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=23  freq=1 GHz
+
+
+AC Sweep1[1].AC1[25/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=24  freq=1 GHz
+
+
+AC Sweep1[1].AC1[26/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=25  freq=1 GHz
+
+
+AC Sweep1[1].AC1[27/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=26  freq=1 GHz
+
+
+AC Sweep1[1].AC1[28/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=27  freq=1 GHz
+
+
+AC Sweep1[1].AC1[29/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=28  freq=1 GHz
+
+
+AC Sweep1[1].AC1[30/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=29  freq=1 GHz
+
+
+AC Sweep1[1].AC1[31/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=30  freq=1 GHz
+
+
+AC Sweep1[1].AC1[32/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=31  freq=1 GHz
+
+
+AC Sweep1[1].AC1[33/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=32  freq=1 GHz
+
+
+AC Sweep1[1].AC1[34/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=33  freq=1 GHz
+
+
+AC Sweep1[1].AC1[35/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=34  freq=1 GHz
+
+
+AC Sweep1[1].AC1[36/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=35  freq=1 GHz
+
+
+AC Sweep1[1].AC1[37/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=36  freq=1 GHz
+
+
+AC Sweep1[1].AC1[38/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=37  freq=1 GHz
+
+
+AC Sweep1[1].AC1[39/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=38  freq=1 GHz
+
+
+AC Sweep1[1].AC1[40/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=39  freq=1 GHz
+
+
+AC Sweep1[1].AC1[41/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=40  freq=1 GHz
+
+
+AC Sweep1[1].AC1[42/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=41  freq=1 GHz
+
+
+AC Sweep1[1].AC1[43/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=42  freq=1 GHz
+
+
+AC Sweep1[1].AC1[44/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=43  freq=1 GHz
+
+
+AC Sweep1[1].AC1[45/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=44  freq=1 GHz
+
+
+AC Sweep1[1].AC1[46/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=45  freq=1 GHz
+
+
+AC Sweep1[1].AC1[47/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=46  freq=1 GHz
+
+
+AC Sweep1[1].AC1[48/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=47  freq=1 GHz
+
+
+AC Sweep1[1].AC1[49/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=48  freq=1 GHz
+
+
+AC Sweep1[1].AC1[50/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=49  freq=1 GHz
+
+
+AC Sweep1[1].AC1[51/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=50  freq=1 GHz
+
+
+AC Sweep1[1].AC1[52/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=51  freq=1 GHz
+
+
+AC Sweep1[1].AC1[53/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=52  freq=1 GHz
+
+
+AC Sweep1[1].AC1[54/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=53  freq=1 GHz
+
+
+AC Sweep1[1].AC1[55/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=54  freq=1 GHz
+
+
+AC Sweep1[1].AC1[56/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=55  freq=1 GHz
+
+
+AC Sweep1[1].AC1[57/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=56  freq=1 GHz
+
+
+AC Sweep1[1].AC1[58/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=57  freq=1 GHz
+
+
+AC Sweep1[1].AC1[59/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=58  freq=1 GHz
+
+
+AC Sweep1[1].AC1[60/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=59  freq=1 GHz
+
+
+AC Sweep1[1].AC1[61/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=60  freq=1 GHz
+
+
+AC Sweep1[1].AC1[62/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=61  freq=1 GHz
+
+
+AC Sweep1[1].AC1[63/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=62  freq=1 GHz
+
+
+AC Sweep1[1].AC1[64/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=63  freq=1 GHz
+
+
+AC Sweep1[1].AC1[65/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=64  freq=1 GHz
+
+
+AC Sweep1[1].AC1[66/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=65  freq=1 GHz
+
+
+AC Sweep1[1].AC1[67/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=66  freq=1 GHz
+
+
+AC Sweep1[1].AC1[68/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=67  freq=1 GHz
+
+
+AC Sweep1[1].AC1[69/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=68  freq=1 GHz
+
+
+AC Sweep1[1].AC1[70/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=69  freq=1 GHz
+
+
+AC Sweep1[1].AC1[71/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=70  freq=1 GHz
+
+
+AC Sweep1[1].AC1[72/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=71  freq=1 GHz
+
+
+AC Sweep1[1].AC1[73/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=72  freq=1 GHz
+
+
+AC Sweep1[1].AC1[74/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=73  freq=1 GHz
+
+
+AC Sweep1[1].AC1[75/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=74  freq=1 GHz
+
+
+AC Sweep1[1].AC1[76/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=75  freq=1 GHz
+
+
+AC Sweep1[1].AC1[77/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=76  freq=1 GHz
+
+
+AC Sweep1[1].AC1[78/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=77  freq=1 GHz
+
+
+AC Sweep1[1].AC1[79/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=78  freq=1 GHz
+
+
+AC Sweep1[1].AC1[80/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=79  freq=1 GHz
+
+
+AC Sweep1[1].AC1[81/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=80  freq=1 GHz
+
+
+AC Sweep1[1].AC1[82/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=81  freq=1 GHz
+
+
+AC Sweep1[1].AC1[83/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=82  freq=1 GHz
+
+
+AC Sweep1[1].AC1[84/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=83  freq=1 GHz
+
+
+AC Sweep1[1].AC1[85/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=84  freq=1 GHz
+
+
+AC Sweep1[1].AC1[86/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=85  freq=1 GHz
+
+
+AC Sweep1[1].AC1[87/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=86  freq=1 GHz
+
+
+AC Sweep1[1].AC1[88/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=87  freq=1 GHz
+
+
+AC Sweep1[1].AC1[89/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=88  freq=1 GHz
+
+
+AC Sweep1[1].AC1[90/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=89  freq=1 GHz
+
+
+AC Sweep1[1].AC1[91/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=90  freq=1 GHz
+
+
+AC Sweep1[1].AC1[92/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=91  freq=1 GHz
+
+
+AC Sweep1[1].AC1[93/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=92  freq=1 GHz
+
+
+AC Sweep1[1].AC1[94/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=93  freq=1 GHz
+
+
+AC Sweep1[1].AC1[95/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=94  freq=1 GHz
+
+
+AC Sweep1[1].AC1[96/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=95  freq=1 GHz
+
+
+AC Sweep1[1].AC1[97/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=96  freq=1 GHz
+
+
+AC Sweep1[1].AC1[98/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=97  freq=1 GHz
+
+
+AC Sweep1[1].AC1[99/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=98  freq=1 GHz
+
+
+AC Sweep1[1].AC1[100/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=99  freq=1 GHz
+
+
+AC Sweep1[1].AC1[101/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=100  freq=1 GHz
+
+
+AC Sweep1[1].AC1[102/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=101  freq=1 GHz
+
+
+AC Sweep1[1].AC1[103/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=102  freq=1 GHz
+
+
+AC Sweep1[1].AC1[104/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=103  freq=1 GHz
+
+
+AC Sweep1[1].AC1[105/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=104  freq=1 GHz
+
+
+AC Sweep1[1].AC1[106/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=105  freq=1 GHz
+
+
+AC Sweep1[1].AC1[107/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=106  freq=1 GHz
+
+
+AC Sweep1[1].AC1[108/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=107  freq=1 GHz
+
+
+AC Sweep1[1].AC1[109/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=108  freq=1 GHz
+
+
+AC Sweep1[1].AC1[110/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=109  freq=1 GHz
+
+
+AC Sweep1[1].AC1[111/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=110  freq=1 GHz
+
+
+AC Sweep1[1].AC1[112/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=111  freq=1 GHz
+
+
+AC Sweep1[1].AC1[113/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=112  freq=1 GHz
+
+
+AC Sweep1[1].AC1[114/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=113  freq=1 GHz
+
+
+AC Sweep1[1].AC1[115/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=114  freq=1 GHz
+
+
+AC Sweep1[1].AC1[116/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=115  freq=1 GHz
+
+
+AC Sweep1[1].AC1[117/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=116  freq=1 GHz
+
+
+AC Sweep1[1].AC1[118/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=117  freq=1 GHz
+
+
+AC Sweep1[1].AC1[119/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=118  freq=1 GHz
+
+
+AC Sweep1[1].AC1[120/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=119  freq=1 GHz
+
+
+AC Sweep1[1].AC1[121/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=120  freq=1 GHz
+
+
+AC Sweep1[1].AC1[122/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=121  freq=1 GHz
+
+
+AC Sweep1[1].AC1[123/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=122  freq=1 GHz
+
+
+AC Sweep1[1].AC1[124/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=123  freq=1 GHz
+
+
+AC Sweep1[1].AC1[125/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=124  freq=1 GHz
+
+
+AC Sweep1[1].AC1[126/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=125  freq=1 GHz
+
+
+AC Sweep1[1].AC1[127/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=126  freq=1 GHz
+
+
+AC Sweep1[1].AC1[128/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=127  freq=1 GHz
+
+
+AC Sweep1[1].AC1[129/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=128  freq=1 GHz
+
+
+AC Sweep1[1].AC1[130/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=129  freq=1 GHz
+
+
+AC Sweep1[1].AC1[131/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=130  freq=1 GHz
+
+
+AC Sweep1[1].AC1[132/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=131  freq=1 GHz
+
+
+AC Sweep1[1].AC1[133/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=132  freq=1 GHz
+
+
+AC Sweep1[1].AC1[134/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=133  freq=1 GHz
+
+
+AC Sweep1[1].AC1[135/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=134  freq=1 GHz
+
+
+AC Sweep1[1].AC1[136/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=135  freq=1 GHz
+
+
+AC Sweep1[1].AC1[137/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=136  freq=1 GHz
+
+
+AC Sweep1[1].AC1[138/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=137  freq=1 GHz
+
+
+AC Sweep1[1].AC1[139/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=138  freq=1 GHz
+
+
+AC Sweep1[1].AC1[140/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=139  freq=1 GHz
+
+
+AC Sweep1[1].AC1[141/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=140  freq=1 GHz
+
+
+AC Sweep1[1].AC1[142/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=141  freq=1 GHz
+
+
+AC Sweep1[1].AC1[143/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=142  freq=1 GHz
+
+
+AC Sweep1[1].AC1[144/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=143  freq=1 GHz
+
+
+AC Sweep1[1].AC1[145/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=144  freq=1 GHz
+
+
+AC Sweep1[1].AC1[146/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=145  freq=1 GHz
+
+
+AC Sweep1[1].AC1[147/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=146  freq=1 GHz
+
+
+AC Sweep1[1].AC1[148/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=147  freq=1 GHz
+
+
+AC Sweep1[1].AC1[149/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=148  freq=1 GHz
+
+
+AC Sweep1[1].AC1[150/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=149  freq=1 GHz
+
+
+AC Sweep1[1].AC1[151/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=150  freq=1 GHz
+
+
+AC Sweep1[1].AC1[152/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=151  freq=1 GHz
+
+
+AC Sweep1[1].AC1[153/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=152  freq=1 GHz
+
+
+AC Sweep1[1].AC1[154/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=153  freq=1 GHz
+
+
+AC Sweep1[1].AC1[155/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=154  freq=1 GHz
+
+
+AC Sweep1[1].AC1[156/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=155  freq=1 GHz
+
+
+AC Sweep1[1].AC1[157/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=156  freq=1 GHz
+
+
+AC Sweep1[1].AC1[158/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=157  freq=1 GHz
+
+
+AC Sweep1[1].AC1[159/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=158  freq=1 GHz
+
+
+AC Sweep1[1].AC1[160/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=159  freq=1 GHz
+
+
+AC Sweep1[1].AC1[161/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=160  freq=1 GHz
+
+
+AC Sweep1[1].AC1[162/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=161  freq=1 GHz
+
+
+AC Sweep1[1].AC1[163/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=162  freq=1 GHz
+
+
+AC Sweep1[1].AC1[164/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=163  freq=1 GHz
+
+
+AC Sweep1[1].AC1[165/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=164  freq=1 GHz
+
+
+AC Sweep1[1].AC1[166/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=165  freq=1 GHz
+
+
+AC Sweep1[1].AC1[167/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=166  freq=1 GHz
+
+
+AC Sweep1[1].AC1[168/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=167  freq=1 GHz
+
+
+AC Sweep1[1].AC1[169/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=168  freq=1 GHz
+
+
+AC Sweep1[1].AC1[170/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=169  freq=1 GHz
+
+
+AC Sweep1[1].AC1[171/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=170  freq=1 GHz
+
+
+AC Sweep1[1].AC1[172/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=171  freq=1 GHz
+
+
+AC Sweep1[1].AC1[173/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=172  freq=1 GHz
+
+
+AC Sweep1[1].AC1[174/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=173  freq=1 GHz
+
+
+AC Sweep1[1].AC1[175/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=174  freq=1 GHz
+
+
+AC Sweep1[1].AC1[176/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=175  freq=1 GHz
+
+
+AC Sweep1[1].AC1[177/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=176  freq=1 GHz
+
+
+AC Sweep1[1].AC1[178/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=177  freq=1 GHz
+
+
+AC Sweep1[1].AC1[179/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=178  freq=1 GHz
+
+
+AC Sweep1[1].AC1[180/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=179  freq=1 GHz
+
+
+AC Sweep1[1].AC1[181/181] <AC1_lib:Exercici_1_Sim_2:schematic>  EL1=180  freq=1 GHz
+
+
+CT Sweep2[1] <AC1_lib:Exercici_1_Sim_2:schematic>   EL2=(0->270)
+
+AC Sweep2[1].AC1[1/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=0  freq=1 GHz
+
+
+AC Sweep2[1].AC1[2/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=1  freq=1 GHz
+
+
+AC Sweep2[1].AC1[3/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=2  freq=1 GHz
+
+
+AC Sweep2[1].AC1[4/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=3  freq=1 GHz
+
+
+AC Sweep2[1].AC1[5/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=4  freq=1 GHz
+
+
+AC Sweep2[1].AC1[6/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=5  freq=1 GHz
+
+
+AC Sweep2[1].AC1[7/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=6  freq=1 GHz
+
+
+AC Sweep2[1].AC1[8/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=7  freq=1 GHz
+
+
+AC Sweep2[1].AC1[9/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=8  freq=1 GHz
+
+
+AC Sweep2[1].AC1[10/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=9  freq=1 GHz
+
+
+AC Sweep2[1].AC1[11/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=10  freq=1 GHz
+
+
+AC Sweep2[1].AC1[12/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=11  freq=1 GHz
+
+
+AC Sweep2[1].AC1[13/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=12  freq=1 GHz
+
+
+AC Sweep2[1].AC1[14/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=13  freq=1 GHz
+
+
+AC Sweep2[1].AC1[15/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=14  freq=1 GHz
+
+
+AC Sweep2[1].AC1[16/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=15  freq=1 GHz
+
+
+AC Sweep2[1].AC1[17/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=16  freq=1 GHz
+
+
+AC Sweep2[1].AC1[18/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=17  freq=1 GHz
+
+
+AC Sweep2[1].AC1[19/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=18  freq=1 GHz
+
+
+AC Sweep2[1].AC1[20/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=19  freq=1 GHz
+
+
+AC Sweep2[1].AC1[21/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=20  freq=1 GHz
+
+
+AC Sweep2[1].AC1[22/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=21  freq=1 GHz
+
+
+AC Sweep2[1].AC1[23/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=22  freq=1 GHz
+
+
+AC Sweep2[1].AC1[24/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=23  freq=1 GHz
+
+
+AC Sweep2[1].AC1[25/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=24  freq=1 GHz
+
+
+AC Sweep2[1].AC1[26/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=25  freq=1 GHz
+
+
+AC Sweep2[1].AC1[27/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=26  freq=1 GHz
+
+
+AC Sweep2[1].AC1[28/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=27  freq=1 GHz
+
+
+AC Sweep2[1].AC1[29/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=28  freq=1 GHz
+
+
+AC Sweep2[1].AC1[30/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=29  freq=1 GHz
+
+
+AC Sweep2[1].AC1[31/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=30  freq=1 GHz
+
+
+AC Sweep2[1].AC1[32/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=31  freq=1 GHz
+
+
+AC Sweep2[1].AC1[33/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=32  freq=1 GHz
+
+
+AC Sweep2[1].AC1[34/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=33  freq=1 GHz
+
+
+AC Sweep2[1].AC1[35/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=34  freq=1 GHz
+
+
+AC Sweep2[1].AC1[36/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=35  freq=1 GHz
+
+
+AC Sweep2[1].AC1[37/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=36  freq=1 GHz
+
+
+AC Sweep2[1].AC1[38/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=37  freq=1 GHz
+
+
+AC Sweep2[1].AC1[39/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=38  freq=1 GHz
+
+
+AC Sweep2[1].AC1[40/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=39  freq=1 GHz
+
+
+AC Sweep2[1].AC1[41/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=40  freq=1 GHz
+
+
+AC Sweep2[1].AC1[42/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=41  freq=1 GHz
+
+
+AC Sweep2[1].AC1[43/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=42  freq=1 GHz
+
+
+AC Sweep2[1].AC1[44/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=43  freq=1 GHz
+
+
+AC Sweep2[1].AC1[45/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=44  freq=1 GHz
+
+
+AC Sweep2[1].AC1[46/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=45  freq=1 GHz
+
+
+AC Sweep2[1].AC1[47/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=46  freq=1 GHz
+
+
+AC Sweep2[1].AC1[48/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=47  freq=1 GHz
+
+
+AC Sweep2[1].AC1[49/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=48  freq=1 GHz
+
+
+AC Sweep2[1].AC1[50/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=49  freq=1 GHz
+
+
+AC Sweep2[1].AC1[51/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=50  freq=1 GHz
+
+
+AC Sweep2[1].AC1[52/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=51  freq=1 GHz
+
+
+AC Sweep2[1].AC1[53/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=52  freq=1 GHz
+
+
+AC Sweep2[1].AC1[54/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=53  freq=1 GHz
+
+
+AC Sweep2[1].AC1[55/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=54  freq=1 GHz
+
+
+AC Sweep2[1].AC1[56/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=55  freq=1 GHz
+
+
+AC Sweep2[1].AC1[57/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=56  freq=1 GHz
+
+
+AC Sweep2[1].AC1[58/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=57  freq=1 GHz
+
+
+AC Sweep2[1].AC1[59/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=58  freq=1 GHz
+
+
+AC Sweep2[1].AC1[60/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=59  freq=1 GHz
+
+
+AC Sweep2[1].AC1[61/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=60  freq=1 GHz
+
+
+AC Sweep2[1].AC1[62/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=61  freq=1 GHz
+
+
+AC Sweep2[1].AC1[63/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=62  freq=1 GHz
+
+
+AC Sweep2[1].AC1[64/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=63  freq=1 GHz
+
+
+AC Sweep2[1].AC1[65/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=64  freq=1 GHz
+
+
+AC Sweep2[1].AC1[66/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=65  freq=1 GHz
+
+
+AC Sweep2[1].AC1[67/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=66  freq=1 GHz
+
+
+AC Sweep2[1].AC1[68/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=67  freq=1 GHz
+
+
+AC Sweep2[1].AC1[69/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=68  freq=1 GHz
+
+
+AC Sweep2[1].AC1[70/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=69  freq=1 GHz
+
+
+AC Sweep2[1].AC1[71/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=70  freq=1 GHz
+
+
+AC Sweep2[1].AC1[72/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=71  freq=1 GHz
+
+
+AC Sweep2[1].AC1[73/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=72  freq=1 GHz
+
+
+AC Sweep2[1].AC1[74/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=73  freq=1 GHz
+
+
+AC Sweep2[1].AC1[75/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=74  freq=1 GHz
+
+
+AC Sweep2[1].AC1[76/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=75  freq=1 GHz
+
+
+AC Sweep2[1].AC1[77/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=76  freq=1 GHz
+
+
+AC Sweep2[1].AC1[78/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=77  freq=1 GHz
+
+
+AC Sweep2[1].AC1[79/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=78  freq=1 GHz
+
+
+AC Sweep2[1].AC1[80/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=79  freq=1 GHz
+
+
+AC Sweep2[1].AC1[81/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=80  freq=1 GHz
+
+
+AC Sweep2[1].AC1[82/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=81  freq=1 GHz
+
+
+AC Sweep2[1].AC1[83/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=82  freq=1 GHz
+
+
+AC Sweep2[1].AC1[84/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=83  freq=1 GHz
+
+
+AC Sweep2[1].AC1[85/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=84  freq=1 GHz
+
+
+AC Sweep2[1].AC1[86/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=85  freq=1 GHz
+
+
+AC Sweep2[1].AC1[87/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=86  freq=1 GHz
+
+
+AC Sweep2[1].AC1[88/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=87  freq=1 GHz
+
+
+AC Sweep2[1].AC1[89/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=88  freq=1 GHz
+
+
+AC Sweep2[1].AC1[90/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=89  freq=1 GHz
+
+
+AC Sweep2[1].AC1[91/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=90  freq=1 GHz
+
+
+AC Sweep2[1].AC1[92/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=91  freq=1 GHz
+
+
+AC Sweep2[1].AC1[93/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=92  freq=1 GHz
+
+
+AC Sweep2[1].AC1[94/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=93  freq=1 GHz
+
+
+AC Sweep2[1].AC1[95/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=94  freq=1 GHz
+
+
+AC Sweep2[1].AC1[96/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=95  freq=1 GHz
+
+
+AC Sweep2[1].AC1[97/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=96  freq=1 GHz
+
+
+AC Sweep2[1].AC1[98/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=97  freq=1 GHz
+
+
+AC Sweep2[1].AC1[99/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=98  freq=1 GHz
+
+
+AC Sweep2[1].AC1[100/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=99  freq=1 GHz
+
+
+AC Sweep2[1].AC1[101/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=100  freq=1 GHz
+
+
+AC Sweep2[1].AC1[102/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=101  freq=1 GHz
+
+
+AC Sweep2[1].AC1[103/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=102  freq=1 GHz
+
+
+AC Sweep2[1].AC1[104/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=103  freq=1 GHz
+
+
+AC Sweep2[1].AC1[105/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=104  freq=1 GHz
+
+
+AC Sweep2[1].AC1[106/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=105  freq=1 GHz
+
+
+AC Sweep2[1].AC1[107/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=106  freq=1 GHz
+
+
+AC Sweep2[1].AC1[108/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=107  freq=1 GHz
+
+
+AC Sweep2[1].AC1[109/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=108  freq=1 GHz
+
+
+AC Sweep2[1].AC1[110/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=109  freq=1 GHz
+
+
+AC Sweep2[1].AC1[111/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=110  freq=1 GHz
+
+
+AC Sweep2[1].AC1[112/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=111  freq=1 GHz
+
+
+AC Sweep2[1].AC1[113/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=112  freq=1 GHz
+
+
+AC Sweep2[1].AC1[114/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=113  freq=1 GHz
+
+
+AC Sweep2[1].AC1[115/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=114  freq=1 GHz
+
+
+AC Sweep2[1].AC1[116/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=115  freq=1 GHz
+
+
+AC Sweep2[1].AC1[117/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=116  freq=1 GHz
+
+
+AC Sweep2[1].AC1[118/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=117  freq=1 GHz
+
+
+AC Sweep2[1].AC1[119/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=118  freq=1 GHz
+
+
+AC Sweep2[1].AC1[120/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=119  freq=1 GHz
+
+
+AC Sweep2[1].AC1[121/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=120  freq=1 GHz
+
+
+AC Sweep2[1].AC1[122/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=121  freq=1 GHz
+
+
+AC Sweep2[1].AC1[123/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=122  freq=1 GHz
+
+
+AC Sweep2[1].AC1[124/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=123  freq=1 GHz
+
+
+AC Sweep2[1].AC1[125/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=124  freq=1 GHz
+
+
+AC Sweep2[1].AC1[126/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=125  freq=1 GHz
+
+
+AC Sweep2[1].AC1[127/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=126  freq=1 GHz
+
+
+AC Sweep2[1].AC1[128/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=127  freq=1 GHz
+
+
+AC Sweep2[1].AC1[129/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=128  freq=1 GHz
+
+
+AC Sweep2[1].AC1[130/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=129  freq=1 GHz
+
+
+AC Sweep2[1].AC1[131/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=130  freq=1 GHz
+
+
+AC Sweep2[1].AC1[132/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=131  freq=1 GHz
+
+
+AC Sweep2[1].AC1[133/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=132  freq=1 GHz
+
+
+AC Sweep2[1].AC1[134/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=133  freq=1 GHz
+
+
+AC Sweep2[1].AC1[135/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=134  freq=1 GHz
+
+
+AC Sweep2[1].AC1[136/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=135  freq=1 GHz
+
+
+AC Sweep2[1].AC1[137/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=136  freq=1 GHz
+
+
+AC Sweep2[1].AC1[138/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=137  freq=1 GHz
+
+
+AC Sweep2[1].AC1[139/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=138  freq=1 GHz
+
+
+AC Sweep2[1].AC1[140/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=139  freq=1 GHz
+
+
+AC Sweep2[1].AC1[141/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=140  freq=1 GHz
+
+
+AC Sweep2[1].AC1[142/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=141  freq=1 GHz
+
+
+AC Sweep2[1].AC1[143/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=142  freq=1 GHz
+
+
+AC Sweep2[1].AC1[144/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=143  freq=1 GHz
+
+
+AC Sweep2[1].AC1[145/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=144  freq=1 GHz
+
+
+AC Sweep2[1].AC1[146/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=145  freq=1 GHz
+
+
+AC Sweep2[1].AC1[147/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=146  freq=1 GHz
+
+
+AC Sweep2[1].AC1[148/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=147  freq=1 GHz
+
+
+AC Sweep2[1].AC1[149/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=148  freq=1 GHz
+
+
+AC Sweep2[1].AC1[150/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=149  freq=1 GHz
+
+
+AC Sweep2[1].AC1[151/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=150  freq=1 GHz
+
+
+AC Sweep2[1].AC1[152/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=151  freq=1 GHz
+
+
+AC Sweep2[1].AC1[153/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=152  freq=1 GHz
+
+
+AC Sweep2[1].AC1[154/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=153  freq=1 GHz
+
+
+AC Sweep2[1].AC1[155/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=154  freq=1 GHz
+
+
+AC Sweep2[1].AC1[156/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=155  freq=1 GHz
+
+
+AC Sweep2[1].AC1[157/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=156  freq=1 GHz
+
+
+AC Sweep2[1].AC1[158/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=157  freq=1 GHz
+
+
+AC Sweep2[1].AC1[159/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=158  freq=1 GHz
+
+
+AC Sweep2[1].AC1[160/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=159  freq=1 GHz
+
+
+AC Sweep2[1].AC1[161/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=160  freq=1 GHz
+
+
+AC Sweep2[1].AC1[162/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=161  freq=1 GHz
+
+
+AC Sweep2[1].AC1[163/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=162  freq=1 GHz
+
+
+AC Sweep2[1].AC1[164/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=163  freq=1 GHz
+
+
+AC Sweep2[1].AC1[165/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=164  freq=1 GHz
+
+
+AC Sweep2[1].AC1[166/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=165  freq=1 GHz
+
+
+AC Sweep2[1].AC1[167/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=166  freq=1 GHz
+
+
+AC Sweep2[1].AC1[168/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=167  freq=1 GHz
+
+
+AC Sweep2[1].AC1[169/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=168  freq=1 GHz
+
+
+AC Sweep2[1].AC1[170/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=169  freq=1 GHz
+
+
+AC Sweep2[1].AC1[171/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=170  freq=1 GHz
+
+
+AC Sweep2[1].AC1[172/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=171  freq=1 GHz
+
+
+AC Sweep2[1].AC1[173/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=172  freq=1 GHz
+
+
+AC Sweep2[1].AC1[174/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=173  freq=1 GHz
+
+
+AC Sweep2[1].AC1[175/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=174  freq=1 GHz
+
+
+AC Sweep2[1].AC1[176/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=175  freq=1 GHz
+
+
+AC Sweep2[1].AC1[177/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=176  freq=1 GHz
+
+
+AC Sweep2[1].AC1[178/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=177  freq=1 GHz
+
+
+AC Sweep2[1].AC1[179/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=178  freq=1 GHz
+
+
+AC Sweep2[1].AC1[180/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=179  freq=1 GHz
+
+
+AC Sweep2[1].AC1[181/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=180  freq=1 GHz
+
+
+AC Sweep2[1].AC1[182/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=181  freq=1 GHz
+
+
+AC Sweep2[1].AC1[183/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=182  freq=1 GHz
+
+
+AC Sweep2[1].AC1[184/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=183  freq=1 GHz
+
+
+AC Sweep2[1].AC1[185/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=184  freq=1 GHz
+
+
+AC Sweep2[1].AC1[186/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=185  freq=1 GHz
+
+
+AC Sweep2[1].AC1[187/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=186  freq=1 GHz
+
+
+AC Sweep2[1].AC1[188/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=187  freq=1 GHz
+
+
+AC Sweep2[1].AC1[189/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=188  freq=1 GHz
+
+
+AC Sweep2[1].AC1[190/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=189  freq=1 GHz
+
+
+AC Sweep2[1].AC1[191/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=190  freq=1 GHz
+
+
+AC Sweep2[1].AC1[192/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=191  freq=1 GHz
+
+
+AC Sweep2[1].AC1[193/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=192  freq=1 GHz
+
+
+AC Sweep2[1].AC1[194/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=193  freq=1 GHz
+
+
+AC Sweep2[1].AC1[195/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=194  freq=1 GHz
+
+
+AC Sweep2[1].AC1[196/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=195  freq=1 GHz
+
+
+AC Sweep2[1].AC1[197/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=196  freq=1 GHz
+
+
+AC Sweep2[1].AC1[198/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=197  freq=1 GHz
+
+
+AC Sweep2[1].AC1[199/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=198  freq=1 GHz
+
+
+AC Sweep2[1].AC1[200/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=199  freq=1 GHz
+
+
+AC Sweep2[1].AC1[201/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=200  freq=1 GHz
+
+
+AC Sweep2[1].AC1[202/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=201  freq=1 GHz
+
+
+AC Sweep2[1].AC1[203/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=202  freq=1 GHz
+
+
+AC Sweep2[1].AC1[204/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=203  freq=1 GHz
+
+
+AC Sweep2[1].AC1[205/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=204  freq=1 GHz
+
+
+AC Sweep2[1].AC1[206/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=205  freq=1 GHz
+
+
+AC Sweep2[1].AC1[207/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=206  freq=1 GHz
+
+
+AC Sweep2[1].AC1[208/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=207  freq=1 GHz
+
+
+AC Sweep2[1].AC1[209/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=208  freq=1 GHz
+
+
+AC Sweep2[1].AC1[210/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=209  freq=1 GHz
+
+
+AC Sweep2[1].AC1[211/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=210  freq=1 GHz
+
+
+AC Sweep2[1].AC1[212/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=211  freq=1 GHz
+
+
+AC Sweep2[1].AC1[213/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=212  freq=1 GHz
+
+
+AC Sweep2[1].AC1[214/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=213  freq=1 GHz
+
+
+AC Sweep2[1].AC1[215/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=214  freq=1 GHz
+
+
+AC Sweep2[1].AC1[216/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=215  freq=1 GHz
+
+
+AC Sweep2[1].AC1[217/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=216  freq=1 GHz
+
+
+AC Sweep2[1].AC1[218/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=217  freq=1 GHz
+
+
+AC Sweep2[1].AC1[219/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=218  freq=1 GHz
+
+
+AC Sweep2[1].AC1[220/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=219  freq=1 GHz
+
+
+AC Sweep2[1].AC1[221/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=220  freq=1 GHz
+
+
+AC Sweep2[1].AC1[222/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=221  freq=1 GHz
+
+
+AC Sweep2[1].AC1[223/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=222  freq=1 GHz
+
+
+AC Sweep2[1].AC1[224/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=223  freq=1 GHz
+
+
+AC Sweep2[1].AC1[225/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=224  freq=1 GHz
+
+
+AC Sweep2[1].AC1[226/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=225  freq=1 GHz
+
+
+AC Sweep2[1].AC1[227/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=226  freq=1 GHz
+
+
+AC Sweep2[1].AC1[228/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=227  freq=1 GHz
+
+
+AC Sweep2[1].AC1[229/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=228  freq=1 GHz
+
+
+AC Sweep2[1].AC1[230/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=229  freq=1 GHz
+
+
+AC Sweep2[1].AC1[231/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=230  freq=1 GHz
+
+
+AC Sweep2[1].AC1[232/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=231  freq=1 GHz
+
+
+AC Sweep2[1].AC1[233/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=232  freq=1 GHz
+
+
+AC Sweep2[1].AC1[234/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=233  freq=1 GHz
+
+
+AC Sweep2[1].AC1[235/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=234  freq=1 GHz
+
+
+AC Sweep2[1].AC1[236/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=235  freq=1 GHz
+
+
+AC Sweep2[1].AC1[237/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=236  freq=1 GHz
+
+
+AC Sweep2[1].AC1[238/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=237  freq=1 GHz
+
+
+AC Sweep2[1].AC1[239/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=238  freq=1 GHz
+
+
+AC Sweep2[1].AC1[240/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=239  freq=1 GHz
+
+
+AC Sweep2[1].AC1[241/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=240  freq=1 GHz
+
+
+AC Sweep2[1].AC1[242/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=241  freq=1 GHz
+
+
+AC Sweep2[1].AC1[243/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=242  freq=1 GHz
+
+
+AC Sweep2[1].AC1[244/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=243  freq=1 GHz
+
+
+AC Sweep2[1].AC1[245/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=244  freq=1 GHz
+
+
+AC Sweep2[1].AC1[246/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=245  freq=1 GHz
+
+
+AC Sweep2[1].AC1[247/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=246  freq=1 GHz
+
+
+AC Sweep2[1].AC1[248/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=247  freq=1 GHz
+
+
+AC Sweep2[1].AC1[249/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=248  freq=1 GHz
+
+
+AC Sweep2[1].AC1[250/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=249  freq=1 GHz
+
+
+AC Sweep2[1].AC1[251/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=250  freq=1 GHz
+
+
+AC Sweep2[1].AC1[252/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=251  freq=1 GHz
+
+
+AC Sweep2[1].AC1[253/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=252  freq=1 GHz
+
+
+AC Sweep2[1].AC1[254/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=253  freq=1 GHz
+
+
+AC Sweep2[1].AC1[255/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=254  freq=1 GHz
+
+
+AC Sweep2[1].AC1[256/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=255  freq=1 GHz
+
+
+AC Sweep2[1].AC1[257/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=256  freq=1 GHz
+
+
+AC Sweep2[1].AC1[258/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=257  freq=1 GHz
+
+
+AC Sweep2[1].AC1[259/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=258  freq=1 GHz
+
+
+AC Sweep2[1].AC1[260/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=259  freq=1 GHz
+
+
+AC Sweep2[1].AC1[261/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=260  freq=1 GHz
+
+
+AC Sweep2[1].AC1[262/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=261  freq=1 GHz
+
+
+AC Sweep2[1].AC1[263/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=262  freq=1 GHz
+
+
+AC Sweep2[1].AC1[264/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=263  freq=1 GHz
+
+
+AC Sweep2[1].AC1[265/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=264  freq=1 GHz
+
+
+AC Sweep2[1].AC1[266/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=265  freq=1 GHz
+
+
+AC Sweep2[1].AC1[267/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=266  freq=1 GHz
+
+
+AC Sweep2[1].AC1[268/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=267  freq=1 GHz
+
+
+AC Sweep2[1].AC1[269/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=268  freq=1 GHz
+
+
+AC Sweep2[1].AC1[270/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=269  freq=1 GHz
+
+
+AC Sweep2[1].AC1[271/271] <AC1_lib:Exercici_1_Sim_2:schematic>  EL2=270  freq=1 GHz
+
+
+CT Sweep3[1] <AC1_lib:Exercici_1_Sim_2:schematic>   EL3=(0->90)
+
+AC Sweep3[1].AC1[1/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=0  freq=1 GHz
+
+
+AC Sweep3[1].AC1[2/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=1  freq=1 GHz
+
+
+AC Sweep3[1].AC1[3/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=2  freq=1 GHz
+
+
+AC Sweep3[1].AC1[4/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=3  freq=1 GHz
+
+
+AC Sweep3[1].AC1[5/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=4  freq=1 GHz
+
+
+AC Sweep3[1].AC1[6/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=5  freq=1 GHz
+
+
+AC Sweep3[1].AC1[7/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=6  freq=1 GHz
+
+
+AC Sweep3[1].AC1[8/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=7  freq=1 GHz
+
+
+AC Sweep3[1].AC1[9/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=8  freq=1 GHz
+
+
+AC Sweep3[1].AC1[10/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=9  freq=1 GHz
+
+
+AC Sweep3[1].AC1[11/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=10  freq=1 GHz
+
+
+AC Sweep3[1].AC1[12/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=11  freq=1 GHz
+
+
+AC Sweep3[1].AC1[13/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=12  freq=1 GHz
+
+
+AC Sweep3[1].AC1[14/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=13  freq=1 GHz
+
+
+AC Sweep3[1].AC1[15/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=14  freq=1 GHz
+
+
+AC Sweep3[1].AC1[16/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=15  freq=1 GHz
+
+
+AC Sweep3[1].AC1[17/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=16  freq=1 GHz
+
+
+AC Sweep3[1].AC1[18/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=17  freq=1 GHz
+
+
+AC Sweep3[1].AC1[19/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=18  freq=1 GHz
+
+
+AC Sweep3[1].AC1[20/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=19  freq=1 GHz
+
+
+AC Sweep3[1].AC1[21/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=20  freq=1 GHz
+
+
+AC Sweep3[1].AC1[22/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=21  freq=1 GHz
+
+
+AC Sweep3[1].AC1[23/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=22  freq=1 GHz
+
+
+AC Sweep3[1].AC1[24/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=23  freq=1 GHz
+
+
+AC Sweep3[1].AC1[25/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=24  freq=1 GHz
+
+
+AC Sweep3[1].AC1[26/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=25  freq=1 GHz
+
+
+AC Sweep3[1].AC1[27/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=26  freq=1 GHz
+
+
+AC Sweep3[1].AC1[28/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=27  freq=1 GHz
+
+
+AC Sweep3[1].AC1[29/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=28  freq=1 GHz
+
+
+AC Sweep3[1].AC1[30/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=29  freq=1 GHz
+
+
+AC Sweep3[1].AC1[31/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=30  freq=1 GHz
+
+
+AC Sweep3[1].AC1[32/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=31  freq=1 GHz
+
+
+AC Sweep3[1].AC1[33/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=32  freq=1 GHz
+
+
+AC Sweep3[1].AC1[34/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=33  freq=1 GHz
+
+
+AC Sweep3[1].AC1[35/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=34  freq=1 GHz
+
+
+AC Sweep3[1].AC1[36/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=35  freq=1 GHz
+
+
+AC Sweep3[1].AC1[37/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=36  freq=1 GHz
+
+
+AC Sweep3[1].AC1[38/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=37  freq=1 GHz
+
+
+AC Sweep3[1].AC1[39/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=38  freq=1 GHz
+
+
+AC Sweep3[1].AC1[40/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=39  freq=1 GHz
+
+
+AC Sweep3[1].AC1[41/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=40  freq=1 GHz
+
+
+AC Sweep3[1].AC1[42/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=41  freq=1 GHz
+
+
+AC Sweep3[1].AC1[43/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=42  freq=1 GHz
+
+
+AC Sweep3[1].AC1[44/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=43  freq=1 GHz
+
+
+AC Sweep3[1].AC1[45/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=44  freq=1 GHz
+
+
+AC Sweep3[1].AC1[46/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=45  freq=1 GHz
+
+
+AC Sweep3[1].AC1[47/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=46  freq=1 GHz
+
+
+AC Sweep3[1].AC1[48/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=47  freq=1 GHz
+
+
+AC Sweep3[1].AC1[49/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=48  freq=1 GHz
+
+
+AC Sweep3[1].AC1[50/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=49  freq=1 GHz
+
+
+AC Sweep3[1].AC1[51/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=50  freq=1 GHz
+
+
+AC Sweep3[1].AC1[52/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=51  freq=1 GHz
+
+
+AC Sweep3[1].AC1[53/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=52  freq=1 GHz
+
+
+AC Sweep3[1].AC1[54/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=53  freq=1 GHz
+
+
+AC Sweep3[1].AC1[55/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=54  freq=1 GHz
+
+
+AC Sweep3[1].AC1[56/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=55  freq=1 GHz
+
+
+AC Sweep3[1].AC1[57/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=56  freq=1 GHz
+
+
+AC Sweep3[1].AC1[58/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=57  freq=1 GHz
+
+
+AC Sweep3[1].AC1[59/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=58  freq=1 GHz
+
+
+AC Sweep3[1].AC1[60/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=59  freq=1 GHz
+
+
+AC Sweep3[1].AC1[61/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=60  freq=1 GHz
+
+
+AC Sweep3[1].AC1[62/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=61  freq=1 GHz
+
+
+AC Sweep3[1].AC1[63/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=62  freq=1 GHz
+
+
+AC Sweep3[1].AC1[64/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=63  freq=1 GHz
+
+
+AC Sweep3[1].AC1[65/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=64  freq=1 GHz
+
+
+AC Sweep3[1].AC1[66/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=65  freq=1 GHz
+
+
+AC Sweep3[1].AC1[67/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=66  freq=1 GHz
+
+
+AC Sweep3[1].AC1[68/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=67  freq=1 GHz
+
+
+AC Sweep3[1].AC1[69/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=68  freq=1 GHz
+
+
+AC Sweep3[1].AC1[70/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=69  freq=1 GHz
+
+
+AC Sweep3[1].AC1[71/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=70  freq=1 GHz
+
+
+AC Sweep3[1].AC1[72/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=71  freq=1 GHz
+
+
+AC Sweep3[1].AC1[73/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=72  freq=1 GHz
+
+
+AC Sweep3[1].AC1[74/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=73  freq=1 GHz
+
+
+AC Sweep3[1].AC1[75/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=74  freq=1 GHz
+
+
+AC Sweep3[1].AC1[76/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=75  freq=1 GHz
+
+
+AC Sweep3[1].AC1[77/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=76  freq=1 GHz
+
+
+AC Sweep3[1].AC1[78/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=77  freq=1 GHz
+
+
+AC Sweep3[1].AC1[79/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=78  freq=1 GHz
+
+
+AC Sweep3[1].AC1[80/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=79  freq=1 GHz
+
+
+AC Sweep3[1].AC1[81/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=80  freq=1 GHz
+
+
+AC Sweep3[1].AC1[82/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=81  freq=1 GHz
+
+
+AC Sweep3[1].AC1[83/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=82  freq=1 GHz
+
+
+AC Sweep3[1].AC1[84/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=83  freq=1 GHz
+
+
+AC Sweep3[1].AC1[85/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=84  freq=1 GHz
+
+
+AC Sweep3[1].AC1[86/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=85  freq=1 GHz
+
+
+AC Sweep3[1].AC1[87/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=86  freq=1 GHz
+
+
+AC Sweep3[1].AC1[88/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=87  freq=1 GHz
+
+
+AC Sweep3[1].AC1[89/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=88  freq=1 GHz
+
+
+AC Sweep3[1].AC1[90/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=89  freq=1 GHz
+
+
+AC Sweep3[1].AC1[91/91] <AC1_lib:Exercici_1_Sim_2:schematic>  EL3=90  freq=1 GHz
+
+
+Resource usage:
+  Total stopwatch time     =     1.39 seconds.
+

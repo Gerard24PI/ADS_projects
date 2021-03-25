@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE uones_ex2_grup1_lib uones_ex2_grup1_lib
+ASSIGN uones_ex2_grup1_lib libMode shared
