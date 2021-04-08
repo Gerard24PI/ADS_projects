@@ -1,0 +1,32 @@
+; Top Design: "LTP_lib:LTP_01_sc:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="LTP_lib:LTP_01_sc:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+S_Port:S2P1  N__0 0 N__3 0 S[1,1]=0 S[1,2]=exp(-j*beta*l) S[2,1]=exp(-j*beta*l) S[2,2]=0 Z[1]=Z0 Z[2]=Z0 Recip=no 
+
+Z0=Z00+Z01*1e-9*freq
+l=40e-3
+beta=b1*1e-9*freq
+Z01=0
+Z00=75
+b1=1.0
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=0 GHz Stop=10.0 GHz Step=0.02 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+Port:Term1  N__0 0 Num=1 Z=50 Ohm Noise=yes 
+Port:Term2  N__3 0 Num=2 Z=50 Ohm Noise=yes 
+#uselib "ckt" , "S2P"
+S2P:SNP1  N__4 N__2 N__5 File="C:\Users\pig\LTP_wrk\data\LTP_01_MomUW_a.ds" Type="dataset" InterpMode="linear" InterpDom="" ExtrapMode="constant" Temp=27.0 CheckPassivity=0 
+Port:Term3  N__4 0 Num=3 Z=50 Ohm Noise=yes 
+Port:Term4  N__2 0 Num=4 Z=50 Ohm Noise=yes 
